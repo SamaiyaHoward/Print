@@ -1,5 +1,5 @@
-Name: <name here>
-Date: <date here>
+Name: <enter name>
+Date: <enter date>
 
 Please answer all questions. Consider these notes.
 

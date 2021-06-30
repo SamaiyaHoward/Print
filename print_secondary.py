@@ -24,4 +24,6 @@ print('Separating', 'words', 'with', 'something', 'new!', sep='@')
 #   a###b###c
 #
 # WRITE CODE BELOW
-
+print('Samaiya', 'Howard', sep='_')
+print('06','30','21',sep='/')
+print('a','b','c',sep='###')
